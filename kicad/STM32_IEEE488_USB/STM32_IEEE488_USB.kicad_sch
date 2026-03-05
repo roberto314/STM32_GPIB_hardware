@@ -7899,12 +7899,12 @@
 		(uuid "2b2cd401-a525-42f0-9006-6e33573f5f1b")
 	)
 	(label "PE#"
-		(at 63.5 176.53 180)
+		(at 31.75 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "2fd72533-a003-419d-83dd-5d2cce27a480")
 	)
@@ -8037,6 +8037,16 @@
 			(justify right bottom)
 		)
 		(uuid "4928c18e-9269-4fab-8d01-5ce947cec8d6")
+	)
+	(label "LED"
+		(at 63.5 176.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d784a8e-444b-4d79-8ba8-1a929d3ea0f5")
 	)
 	(label "TE#"
 		(at 128.27 77.47 180)
